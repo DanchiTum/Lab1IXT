@@ -1,0 +1,16 @@
+*.pem              
+*.env              
+.aws-sam/          
+.aws/              
+.terraform/        
+*.tfstate*         
+.vagrant/
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.log
+*.swp
+*.swo
+*~
